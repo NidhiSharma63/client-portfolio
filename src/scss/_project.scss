@@ -48,13 +48,14 @@
       overflow: hidden;
 
       .project-img{
-        width: 78%;
+        width: 85%;
         height: 55%;
         border-radius: 5px;
         margin: auto;
         opacity: 1;
         position: relative;
         z-index: 2;
+        object-fit: contain;
       }
 
       &::after{
