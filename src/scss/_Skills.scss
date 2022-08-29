@@ -36,23 +36,14 @@
       .skill-info{
         @include flex($direction:row, $justify:space-between, $align:center);
       }
+      .progressBar{
+        border-radius: 1rem;
+        height: 10px;
+        background-color: var( --color-white);
+      }
     }
   }
   
-}
-.progress-bar{
-  background-color: var(--half-circle-border-color);
-}
-.progress-wrapper{
-  background-color: var(--bg-color-extra-light);
-  border-radius: 20px;
-}
-.progress-barCompleted{
-  height: 100%;
-  position: relative;
-}
-.progress-label{
-  display: none;
 }
 
 @media screen and (max-width: 900px){

@@ -1,6 +1,6 @@
 import React,{ useEffect } from 'react';
 import { Box,ThemeProvider,Typography,Button } from '@mui/material';
-import ProgressBar from "@ramonak/react-progress-bar";
+
 
 import { BtnTheme } from '../material UI/ButtonTheme'
 import { skills } from '../data';
@@ -71,14 +71,7 @@ const Skills = () => {
                     </Typography>
                   </ThemeProvider>
                 </Box>
-               <ProgressBar 
-               completed={skill.level}
-               bgColor="white"
-               className="progress-wrapper"
-               height="10px"
-               completedClassName="progress-barCompleted"
-               labelClassName="progress-label"
-                />
+                <Box width={skill.level+'%'} className='progressBar'></Box>
              </Box>
            ))
           }

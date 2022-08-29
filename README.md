@@ -1,12 +1,16 @@
-# porfolio
+# client-porfolio
 
-### this portfolio is created by using `react` `material UI` `scss`.
+## tools and technologies used.<img width='20%' src="./src/assets/images/mui.png"/><img width='20%' src="./src/assets/images/react.png"/><img width='20%' src="./src/assets/images/js.png"/>
 
-### it is a complete respnosive portfolio.
+### it is a complete responsive portfolio.
 
 ## here it's
 <img src="./src/assets/images/s-portfolio1.png"/>
 <img src="./src/assets/images/s-portfolio2.png"/>
 
-### [Create out](https://nidhisharma63.github.io/client-portfolio/).
+## Available scripts
+
+`npm i` and `npm start`
+
+### [Checkout out](https://nidhisharma63.github.io/client-portfolio/).
 
