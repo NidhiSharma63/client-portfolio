@@ -1,6 +1,6 @@
 # client-porfolio
 
-## tools and technologies used.<img width='20%' src="./src/assets/images/mui.png"/><img width='20%' src="./src/assets/images/react.png"/><img width='20%' src="./src/assets/images/js.png"/>
+## tools and technologies used.<img width='10%' src="./src/assets/images/mui.png"/><img width='10%' src="./src/assets/images/react.png"/><img width='10%' src="./src/assets/images/js.png"/>
 
 ### it is a complete responsive portfolio.
 
