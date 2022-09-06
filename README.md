@@ -13,5 +13,5 @@
 
 `npm i` and `npm start`
 
-### [Checkout out](https://nidhisharma63.github.io/client-portfolio/).
+### [Check Now](https://nidhisharma63.github.io/client-portfolio/).
 
